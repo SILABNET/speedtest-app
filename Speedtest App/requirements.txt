@@ -1,0 +1,4 @@
+PySide6
+speedtest-cli
+psutil
+pyqtgraph
